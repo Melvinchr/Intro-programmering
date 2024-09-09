@@ -1,6 +1,6 @@
 tal1 = int(input("Mata in ett tal: "))
 tal2 = int(input("Mata in ett till tal: "))
 if tal1 > tal2:
-    print(tal1)
+    print(f"{tal1} är störst")
 else:
-    print(tal2)
+    print(f"{tal2} är störst")
