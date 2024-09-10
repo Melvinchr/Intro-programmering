@@ -16,3 +16,7 @@ Arbetade med uppgifter på karlsson.app
 --------
 Arbetade med uppgifter på karlsson.app
 ---------------------------------------
+24-09-10
+---------
+Arbetade med uppgift 4,5 och 6 på karlsson.app
+-----------------------------------------------
