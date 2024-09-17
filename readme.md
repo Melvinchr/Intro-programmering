@@ -20,3 +20,7 @@ Arbetade med uppgifter på karlsson.app
 ---------
 Arbetade med uppgift 4,5 och 6 på karlsson.app
 -----------------------------------------------
+24-09-17
+---------
+Arbetade och gjorde färdigt uppgift 6 och 7 på karlsson.app kapitel 7050
+-------------------------------------------------------------------------
