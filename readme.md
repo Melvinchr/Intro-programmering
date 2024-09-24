@@ -24,3 +24,11 @@ Arbetade med uppgift 4,5 och 6 på karlsson.app
 ---------
 Arbetade och gjorde färdigt uppgift 6 och 7 på karlsson.app kapitel 7050
 -------------------------------------------------------------------------
+24-09-23
+--------
+Gjorde första provet och började arbeta med uppgifterna på 7060
+---------------------------------------------------------------
+24-09-24
+--------
+Fortsatte med uppgifterna på 7060
+---------------------------------
